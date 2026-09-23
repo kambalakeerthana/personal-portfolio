@@ -1,72 +1,212 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Kambala Keerthana | Personal Portfolio ⚡️
 
-> https://varadbhogayata.github.io
+> A professional, responsive personal portfolio showcasing my skills, projects, education, internship experience, and certifications.
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## 👩‍💻 About Me
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+Hi, I'm **Kambala Keerthana**, a final-year B.Tech student specializing in **Computer Science and Engineering (Data Science)**.
 
-:star: Star me on GitHub — it helps!
+I am interested in **Python, Machine Learning, Artificial Intelligence, NLP, Computer Vision, and Generative AI**. I enjoy building practical AI-driven applications and continuously learning emerging technologies.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## 🚀 Portfolio
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+This portfolio showcases my:
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+- About Me
+- Internship Experience
+- Projects
+- Technical Skills
+- Education
+- Certifications & Workshops
+- Contact Information
+- Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+## 🛠️ Technical Skills
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+### Programming
+- Python
 
-## Contributing 💡
-#### Step 1
+### Data Analysis
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Tableau
 
-- **Option 1**
-    - 🍴 Fork this repo!
+### Machine Learning & AI
+- Machine Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Artificial Intelligence
+- Generative AI
+- Gemini API
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+### NLP & Computer Vision
+- NLP
+- NLTK
+- OpenCV
+- Object Detection & Tracking
 
+### Database & Cloud
+- MySQL
+- AWS
 
-#### Step 2
+### Tools
+- VS Code
+- GitHub
 
-- **Build your code** 🔨🔨🔨
+## 📌 Projects
 
-#### Step 3
+### 1. AI Resume Analyzer
 
-- 🔃 Create a new pull request.
+An AI-powered resume analysis application built using:
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+- Python
+- Streamlit
+- Gemini API
+- NLP
+- PDF Processing
+
+### Key Features
+
+- LLM-based resume analysis
+- Skill extraction
+- ATS-style job matching
+- ATS match score
+- Strength identification
+- Missing skill suggestions for target roles
+
+**GitHub:**  
+https://github.com/kambalakeerthana/AI-RESUME-ANALYZER
+
+---
+
+### 2. Student Dropout AI Counselling
+
+A classification-based machine learning system developed to predict student dropout risks and provide automated counselling recommendations.
+
+**Technologies:**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Key Work
+
+- Data preprocessing
+- Feature preparation
+- Model training
+- Prediction
+- Automated counselling recommendations
+
+**GitHub:**  
+https://github.com/kambalakeerthana/Student-Dropout-AI-Counselling
+
+---
+
+### 3. Object Detection & Tracking
+
+A real-time computer vision system developed using Python and OpenCV.
+
+### Key Features
+
+- Real-time object detection
+- Bounding box generation
+- Object ID assignment
+- Object tracking across consecutive video frames
+
+## 💼 Internship
+
+### CodeAlpha – Machine Learning / AI Developer Intern
+
+**20 May 2026 – 20 June 2026**
+
+During my internship, I developed and tested AI/ML applications using Python, NLP, Deep Learning, and Computer Vision.
+
+### Projects Completed
+
+- Language Translation Tool
+- FAQ Chatbot
+- AI Music Generator
+- Object Detection & Tracking
+
+### Technologies Used
+
+Python, NLTK, Scikit-learn, LSTM, Music21, OpenCV, DeepSORT, React, Flask, APIs
+
+## 🎓 Education
+
+### DRK Institute of Science & Technology
+
+**B.Tech – Computer Science and Engineering (Data Science)**
+
+2027
+
+**CGPA: 8.33**
+
+### Sri Chaitanya Junior Kalasala
+
+**Intermediate (11th and 12th)**
+
+2023
+
+**Percentage: 95%**
+
+### St. Alphonsa's High School
+
+**SSC – Telangana**
+
+2021
+
+**GPA: 9.8**
+
+## 🏆 Certifications & Workshops
+
+- **Deloitte Australia – Data Analytics Job Simulation**  
+  Forage – 2026
+
+- **Generative AI Workshop**  
+  Elan & nVision, Student Body of IIT Hyderabad – 2026
+
+- **Data Analytics with Tableau Workshop**  
+  JNTUH University College of Engineering Science & Technology Hyderabad – 2024
+
+## 📫 Contact
+
+**Kambala Keerthana**
+
+📍 Hyderabad, India
+
+📧 kambalakeerthana2005@gmail.com
+
+📱 6302960383
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/keerthana-kambala-326609325/
+
+💻 GitHub:  
+https://github.com/kambalakeerthana
+
+## 🌐 Technologies Used for This Portfolio
+
+- HTML5
+- CSS3
+- JavaScript
+- Materialize CSS
+- Font Awesome
+- Typed.js
+- GitHub Pages
+
+## 📄 Resume
+
+My resume is available through the **Resume** section of my portfolio.
+
+---
+
+### ⭐ Thank You
+
+Thank you for visiting my portfolio!
+
+**© 2026 Kambala Keerthana**
